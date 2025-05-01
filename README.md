@@ -38,7 +38,7 @@ it’s a reflection. a ui that *moves like the hardware*.
 
 > *(click to expand)*
 
-![setup](./screenshots/withsettings.png)  
+![setup](./screenshots/with settings.png)  
 ![chat](./screenshots/main.png)
 
 ---
