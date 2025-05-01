@@ -34,15 +34,6 @@ it’s a reflection. a ui that *moves like the hardware*.
 
 ---
 
-## screenshots
-
-> *(click to expand)*
-
-![setup](./screenshots/with settings.png)  
-![chat](./screenshots/main.png)
-
----
-
 ## built with
 
 - figma (open source)  
