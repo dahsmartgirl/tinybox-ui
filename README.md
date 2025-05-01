@@ -1,66 +1,70 @@
 # tinybox-ui
 
-> I know Tinybox didn’t ask for a UI. I built one anyway.
+> tinybox said “no ui.”  
+> i said “watch me.”
 
-No login. No cloud garbage. No fluff. Just raw, local power.  
-This is setup. Power limits. Chat. Confidence feedback.  
-Built like code. Looks like control.
+no login. no cloud garbage. no fluff.  
+just raw, local power.
 
----
-
-### Why?
-
-Tinybox is raw compute. Ruthless. Minimal. Just how it should be.  
-But that doesn’t mean you can’t *see* it move.
-
-I built this UI not as a layer *on top* of Tinybox, but *alongside* it—  
-the same way you build a CLI that obeys the machine.
- 
-Fast. Clean. Local. Done.
+setup. chat. power limits. confidence feedback.  
+built like code. looks like control.
 
 ---
 
-### Features
+## why i designed it
 
-- **Setup Flow** – No fluff. Set power limit and get running in seconds.
-- **Confidence Feedback** – Real-time visual signal of system’s "self-trust".
-- **Terminal-style Chat** – Feels like code, talks like you.
-- **System Stats** – Temperature, usage, performance—at a glance.
-- **Respectful UI** – No overlays. No SaaS mumbo jumbo.
+tinybox is compute as it should be — ruthless, local, hacker-first.  
+but even the best machines deserve an interface that *respects the machine*.
 
----
+not a dashboard. not a frontend.  
+more like a shell — visual, fast, silent until needed.
 
-### Screenshots
-
-> *Click for full view.*
-
-![Setup](./screenshots/setup.png)  
-![Chat](./screenshots/chat.png)
+this isn’t a “layer on top.”  
+it’s a reflection. a ui that *moves like the hardware*.
 
 ---
 
-### Built With:
+## features
 
-- Figma (open source design link below)
-- HTML mockups coming soon
-
----
-
-### Figma File
-
-→ [tinybox-ui (View Only)](https://yourfigmalink.com)  
-*Duplicate to explore, remix, and build.*
+- **setup flow** – set your power limit and go. no clutter.  
+- **confidence feedback** – visualizes the system’s internal “self-trust” in real time.  
+- **terminal-style chat** – natural. minimal. feels like code.  
+- **live system stats** – temp. usage. performance. at a glance.  
+- **local-first respect** – no cloud. no login. no tracking. just you and the metal.  
 
 ---
 
-### Open Invite
+## screenshots
 
-Want to build on it? Fork it. Remix it.  
-Make it work. Make it weird. Make it yours.
+> *(click to expand)*
 
-This is version 0.0001.  
-There’s more coming.
+![setup](./screenshots/setup.png)  
+![chat](./screenshots/chat.png)
 
 ---
 
-Made with obsession by [@ilerioluwayourdesigner](https://www.linkedin.com/in/ilerioluwayourdesigner)  
+## built with
+
+- figma (open source)  
+- html mockups (coming soon)
+
+---
+
+## figma file
+
+→ [tinybox-ui (open source)](https://yourfigmalink.com)  
+duplicate. remix. build. break. rethink it.
+
+---
+
+## more coming
+
+this is v0.0001.  
+i’m designing for the kind of local-first future we don’t talk enough about.  
+no bloated software. no telemetry. no middlemen.  
+
+just smart design that respects the system.
+
+---
+
+made with obsession by [@ileri](https://x.com/Dahsmartgirl)  
