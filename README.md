@@ -52,7 +52,7 @@ it’s a reflection. a ui that *moves like the hardware*.
 
 ## figma file
 
-→ [tinybox-ui (open source)](https://yourfigmalink.com)  
+→ [tinybox-ui (open source)](https://www.figma.com/design/9vL9ux1XHsnogtAViibSVC/tinybox-ui?node-id=0-1&t=nMQSu1j6GfmucY2Y-1)  
 duplicate. remix. build. break. rethink it.
 
 ---
