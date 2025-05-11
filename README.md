@@ -37,7 +37,7 @@ it’s a reflection. a ui that *moves like the hardware*.
 ## built with
 
 - figma (open source)  
-- html mockups (coming soon)
+- Low-responsive web app built with typescript, css, and .js (credits - [@ftasma](https://github.com/Ftasma/))
 
 ---
 
