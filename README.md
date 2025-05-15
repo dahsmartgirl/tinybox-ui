@@ -3,6 +3,8 @@
 > tinybox said “no ui.”  
 > i said “watch me.”
 
+![Screenshot of the main view](https://github.com/dahsmartgirl/tinybox-ui/blob/main/screenshots/main.png)
+
 no login. no cloud garbage. no fluff.  
 just raw, local power.
 
